@@ -28,7 +28,7 @@
         
 4. Eredmények (ábrák)
    - Futtatások összehasonlítása:
-    ![Run comparison](outputs/plots/run_comparison.png)
+    ![Run comparison](outputs/plots/model_comparison.png)
    - Stabilitás vizsgálat:
    ![Stability](outputs/plots/stability_plot.png)
    - Tanulási görbék:
