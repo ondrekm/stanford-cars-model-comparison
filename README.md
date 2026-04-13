@@ -34,7 +34,7 @@
    - Tanulási görbék:
     ![Training curves](outputs/plots/training_curves.png)
    - Konfigurációk összehasonlítása: !
-     [Config](outputs/plots/configuration_comparison.png)
+   ![Config](outputs/plots/configuration_comparison.png)
   
 5. Feature-alapú elemzés
    A legjobb modell embeddingjei alapján további elemzések készültek.
